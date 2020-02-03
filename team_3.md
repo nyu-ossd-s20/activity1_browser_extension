@@ -1,4 +1,4 @@
-#Part 3
+# Part 3
 1. What is the purpose of the README.md file? What kind of information should be included there?
 
 A brief overview and an introduction to the project
@@ -30,4 +30,23 @@ Personal attacks
 
 For technical issues, there is an issues tab. They can either create a new issue or email, or use the IRC channel. 
 
-#Part 4
+# Part 4
+1. What is the homepage for the extension?
+
+https://darkreader.org/
+
+2. What is the license under which the extension is distributed?
+
+MIT License
+
+3. Can you find a code repository for this extension?
+
+https://github.com/darkreader/darkreader
+
+4. Is the extension that you picked an open source project?
+
+Yes, it is
+
+5. Can you find information about how many different users contribute to this project? If so, specify how many.
+
+372 contributers. 
