@@ -4,7 +4,7 @@
 Describe the background and purpose of the software. It also provide getting started guide and basic documentations/links. The README also acts as a wiki in some projects as it links important project information together. 
 
 ## LICENSE
-LICENSE file provides the license, which details the right of users and distributors. It does not need to be in a repository.
+LICENSE file provides the license, which details the rights of owners, users, and distributors. It does not need to be in a repository.
 
 ## CONTRUBUTING
 Describe how people can and should contribute to the project. It usually contain guide-line, coding standard, and the overall required workflow.
