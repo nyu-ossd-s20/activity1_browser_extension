@@ -25,6 +25,11 @@ Link: https://addons.mozilla.org/en-US/firefox/addon/adblocker-ultimate/
 #### What is the homepage for the extension?
 https://adblockultimate.net
 #### What is the license under which the extension is distributed?
+GPL v3
 #### Can you find a code repository for this extension?
+Yes. <br> 
+Here is the link: https://github.com/adblockultimate
 #### Is the extension that you picked an open source project?
+Yes it is. 
 #### Can you find information about how many different users contribute to this project? If so, specify how many.
+We can't find information about how many users contribute to this project. 
