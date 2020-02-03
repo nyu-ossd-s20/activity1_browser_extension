@@ -37,3 +37,5 @@ yes, it is open source.
 
 only one person has contributed.
 
+part 5:
+https://github.com/nyu-ossd-s20/coinFlip
