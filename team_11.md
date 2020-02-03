@@ -4,7 +4,7 @@
 It's an introduction about the project. If a project is like a book, then README.md is the sum of the abstract of the book, the author, the publisher, where to buy it, and other general information for a reader. 
 
 2. What is the purpose of the LICENSE file? Does it need to be in a repository?
-The rules that those who view, editmake changes to the original other people 
+this is a test 
 
 3. What is the purpose of the CONTRIBUTING.md file?
 
@@ -12,7 +12,7 @@ The rules that those who view, editmake changes to the original other people
 
 5. What is the purpose of the CODE_OF_CONDUCT.md document?
 
-6. Describe three types of behaviors that violate the Mozilla Community Participation Guidelines.
+6. Describe three types of behaviors that violate the Mozilla Community Participation Guidelines.  ANSWER: 1. Derogatory Language 2. Discrimination 3. Harassment
 
 7. If a person working with the content of this repository runs into problems or has questions, what can they do?
 
