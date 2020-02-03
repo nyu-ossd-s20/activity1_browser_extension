@@ -52,4 +52,4 @@ Yes, it is
 372 contributers. 
 
 # Part 5
-link to our extension: https://github.com/nyu-ossd-s20/auto-down
+link to our extension [auto-down](https://github.com/nyu-ossd-s20/auto-down)
