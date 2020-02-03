@@ -1,3 +1,4 @@
+# Part 3
 1. What is the purpose of the README.md file? What kind of information should be included there?
   * The README file includes instructions how to install the files/program, how to use it, and where to go if you have problems.
 2. What is the purpose of the LICENSE file? Does it need to be in a repository?
