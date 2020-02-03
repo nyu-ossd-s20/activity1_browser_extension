@@ -6,6 +6,7 @@
 2. What is the purpose of the LICENSE file? Does it need to be in a repository?
 
 3. What is the purpose of the CONTRIBUTING.md file?
+* The purpose of the CONTRIBUTING.md file is to provide users with guidelines about what types of contributions they can make to the project, and what rules they should follow when making contributions.
 
 4. Describe one type of contribution to this repository that does not require writing any code.
 
