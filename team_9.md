@@ -15,13 +15,14 @@
   * If they run into problems, they can file a bug under the issues tab in the repository. If they have questions, they can email the dev-addons mailing list or contact the WebExtensions team.
 
 # Part 4
+The extension we chose is called Enhancer for Youtube and it is located [here](https://addons.mozilla.org/en-US/firefox/addon/enhancer-for-youtube/?src=featured).
 1. What is the homepage for the extension?
- * 
+ * The homepage is [here](https://www.mrfdev.com/enhancer-for-youtube).
 2. What is the license under which the extension is distributed?
- * 
+ * It has a custom license which can be read [here](https://addons.mozilla.org/en-US/firefox/addon/enhancer-for-youtube/license/).
 3. Can you find a code repository for this extension?
- * 
+ * We could not find one.
 4. Is the extension that you picked an open source project?
- * 
+ * No, it is not an open source project.
 5. Can you find information about how many different users contribute to this project? If so, specify how many.
- * 
+ * One person contributes to this project.
