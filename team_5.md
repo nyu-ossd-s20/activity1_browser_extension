@@ -12,8 +12,10 @@
 
 4. Describe one type of contribution to this repository that does not require writing any code.
 * Adding a translation of localizable strings in a new language.
+* Pointing out a bug without editing it.
 
 5. What is the purpose of the CODE_OF_CONDUCT.md document?
+* To restrict the behaviors of the users.
 
 6. Describe three types of behaviors that violate the Mozilla Community Participation Guidelines.
 
