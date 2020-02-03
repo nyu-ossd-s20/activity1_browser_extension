@@ -1,3 +1,5 @@
+Part 3:
+
 What is the purpose of the README.md file? What kind of information should be included there?
 The README file should contain a general overview of the project, how to install the project, and the project dependenies. Other things could be future plans, how the project was developed, etc.
 
@@ -18,4 +20,20 @@ You aren't respectful, you aren't inclusive, or you aren't professional.
 
 If a person working with the content of this repository runs into problems or has questions, what can they do?
 The person can "email the dev-addons mailing list or contact the WebExtensions team in the #webextensions IRC channel on irc.mozilla.org."
+
+
+Part 4:
+
+HistoryCleaner.
+
+Homepage:
+https://addons.mozilla.org/en-US/firefox/addon/history-cleaner-history-eraser/
+
+There is an MIT license.
+
+Yes: https://github.com/Rayquaza01/HistoryCleaner
+
+yes, it is open source.
+
+only one person has contributed.
 
