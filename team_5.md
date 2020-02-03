@@ -5,8 +5,10 @@
 
 2. What is the purpose of the LICENSE file? Does it need to be in a repository?
 
+* The purpose of the LICENSE file is to deal with legal issues. It grants certain types of permission to the users. A LICENSE does not necessarilyu need to exist in a repository, as a software that is not in a repository can also have its own license.
+
 3. What is the purpose of the CONTRIBUTING.md file?
-* The purpose of the CONTRIBUTING.md file is to provide users with guidelines about what types of contributions they can make to the project, and what rules they should follow when making contributions.
+* The purpose of the CONTRIBUTING.md file is to provide users with guidelines about what types of contributions they can make to the project, and what rules they should follow when making contributions. And the owner may provide their contact to answer the questions by the user.
 
 4. Describe one type of contribution to this repository that does not require writing any code.
 
