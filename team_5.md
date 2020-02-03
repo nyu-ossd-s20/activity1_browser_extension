@@ -17,5 +17,9 @@
 
 6. Describe three types of behaviors that violate the Mozilla Community Participation Guidelines.
 
+* Be inrespectful
+* Be indirect and not professional
+* Be exclusive
+
 7. If a person working with the content of this repository runs into problems or has questions, what can they do?
 
