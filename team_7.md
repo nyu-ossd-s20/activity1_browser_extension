@@ -14,7 +14,7 @@
    
 7. If you run into a problem, you can file a bug in their bug reporter, email their mailing list, or contact them on their IRC channel.
 
-##Best Extension: Dark Reader
+## Best Extension: Dark Reader
 
 Extension page: https://addons.mozilla.org/en-US/firefox/addon/darkreader/?src=search
 Home page: https://darkreader.org/
