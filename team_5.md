@@ -11,6 +11,7 @@
 * The purpose of the CONTRIBUTING.md file is to provide users with guidelines about what types of contributions they can make to the project, and what rules they should follow when making contributions. And the owner may provide their contact to answer the questions by the user.
 
 4. Describe one type of contribution to this repository that does not require writing any code.
+* Adding a translation of localizable strings in a new language.
 
 5. What is the purpose of the CODE_OF_CONDUCT.md document?
 
