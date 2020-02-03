@@ -1,3 +1,4 @@
+_Part 3_
 1. The README file gives an overview of what the repo is and what it does, as well as to give instructions on how to first install it. It is also a general location to link to other important areas, such as a support page.
 
 2. The LICENSE file specifies the permissions available to any contributor or downloader, and what (legally) they are allowed to do with the code in the repository. It needs to be in a repository if you basically want your license to be anything other than the default copyright license. In this case of an open source repo, definitely.
@@ -14,6 +15,7 @@
    
 7. If you run into a problem, you can file a bug in their bug reporter, email their mailing list, or contact them on their IRC channel.
 
+_Part 4_
 ## Best Extension: Dark Reader
 
 Extension page: https://addons.mozilla.org/en-US/firefox/addon/darkreader/?src=search
