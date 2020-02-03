@@ -1,4 +1,4 @@
-##Part 3
+#Part 3
 1. What is the purpose of the README.md file? What kind of information should be included there?
 
 A brief overview and an introduction to the project
@@ -30,4 +30,4 @@ Personal attacks
 
 For technical issues, there is an issues tab. They can either create a new issue or email, or use the IRC channel. 
 
-##Part 4
+#Part 4
