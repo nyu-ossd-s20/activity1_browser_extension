@@ -1,7 +1,5 @@
 # Part 3
 
-Our answers will be here
-
 1. A README.md file describes the project and guides the user through how to use the project and the installation process. THe file also presents other general information, such as reporting bugs. 
 
 2. The LICEANSE file states the type of license the project is under. THe license states the regulations of use and distribution of the source code for the project. The license file should be in a repository. 
