@@ -17,8 +17,11 @@
 ## Best Extension: Dark Reader
 
 Extension page: https://addons.mozilla.org/en-US/firefox/addon/darkreader/?src=search
+
 Home page: https://darkreader.org/
+
 Github page: https://github.com/darkreader/darkreader
+
 License: MIT License
 
 It's open source!
