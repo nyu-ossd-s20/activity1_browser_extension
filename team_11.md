@@ -4,7 +4,7 @@
 It's an introduction about the project. If a project is like a book, then README.md is the sum of the abstract of the book, the author, the publisher, where to buy it, and other general information for a reader. 
 
 2. What is the purpose of the LICENSE file? Does it need to be in a repository?
-this is a test 
+The rules that those who view, editmake changes to the original other people 
 
 3. What is the purpose of the CONTRIBUTING.md file?
 
