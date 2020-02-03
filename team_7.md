@@ -13,3 +13,14 @@
    - Threatening violence against someone or posting someone's personal information online
    
 7. If you run into a problem, you can file a bug in their bug reporter, email their mailing list, or contact them on their IRC channel.
+
+##Best Extension: Dark Reader
+
+Extension page: https://addons.mozilla.org/en-US/firefox/addon/darkreader/?src=search
+Home page: https://darkreader.org/
+Github page: https://github.com/darkreader/darkreader
+License: MIT License
+
+It's open source!
+
+The github page shows a general infographic type thing on all the contributors, looks like at least 100+ contributors.
