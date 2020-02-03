@@ -1,7 +1,7 @@
 ### Part 3
 
 1. What is the purpose of the README.md file? What kind of information should be included there?
-It's an introduction about the project. If a project is like a book, then README.md is the sum of the abstract of the book, the author, the publisher, where to buy it, and other general information for a reader. 
+<br>It's an introduction about the project. If a project is like a book, then README.md is the sum of the abstract of the book, the author, the publisher, where to buy it, and other general information for a reader. 
 
 2. What is the purpose of the LICENSE file? Does it need to be in a repository?
 
