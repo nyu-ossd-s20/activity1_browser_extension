@@ -25,3 +25,25 @@ Three types of behaviors that violate the Mozilla Community Participation Guidel
 ### If a person working with the content of this repository runs into problems or has questions, what can they do?
 
 If a person is running into issues, they can contact the "[dev-addons mailing list](https://mail.mozilla.org/listinfo/dev-addons) or contact the WebExtensions team in the #webextensions IRC channel on irc.mozilla.org"
+
+
+### Part 4
+### What is the homepage for the extension?
+
+The extension doesn't have a homepage, but it does have an extensive readme on its github page.
+
+### What is the license under which the extension is distributed?
+
+GNU GPL V3 ----> https://github.com/gorhill/uBlock/blob/master/LICENSE.txt
+
+### Can you find a code repository for this extension?
+
+Yes, there is only a repo and a chrome extension page.
+
+### Is the extension that you picked an open source project?
+
+Yes.
+
+### Can you find information about how many different users contribute to this project? If so, specify how many.
+
+There are 81 contributors to this project
