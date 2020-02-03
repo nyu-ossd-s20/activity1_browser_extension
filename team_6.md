@@ -1,6 +1,6 @@
 #### What is the purpose of the README.md file? What kind of information should be included there?
 
-The purpose of the README.md file is to provide an introduction the project, along with some motivation for why it exists. Further information may include how to use or install the project.
+The purpose of the README.md file is to provide an introduction to the project, along with some motivation for why it exists. Further information may include how to use or install the project.
 
 ### What is the purpose of the LICENSE file? Does it need to be in a repository?
 
