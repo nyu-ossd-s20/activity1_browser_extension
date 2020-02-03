@@ -24,4 +24,5 @@
 * Be exclusive
 
 7. If a person working with the content of this repository runs into problems or has questions, what can they do?
-
+* File a bug if a problem is found.
+* Email  [dev-addons mailing list](https://mail.mozilla.org/listinfo/dev-addons) or contact the WebExtensions team in the #webextensions IRC channel on irc.mozilla.org.
