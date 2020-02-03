@@ -12,7 +12,9 @@ this is a test
 
 5. What is the purpose of the CODE_OF_CONDUCT.md document?
 
-6. Describe three types of behaviors that violate the Mozilla Community Participation Guidelines.  ANSWER: 1. Derogatory Language 2. Discrimination 3. Harassment
+6. Describe three types of behaviors that violate the Mozilla Community Participation Guidelines.  
+ANSWER: 1. Derogatory Language 2. Discrimination 3. Harassment
 
 7. If a person working with the content of this repository runs into problems or has questions, what can they do?
+ANSWER: They can submit a pull request or an issue to the repository.
 
