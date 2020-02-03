@@ -1,3 +1,17 @@
 # Part 3
 
 Our answers will be here
+
+1. A README.md file describes the project and guides the user through how to use the project and the installation process. THe file also presents other general information, such as reporting bugs. 
+
+2. The LICEANSE file states the type of license the project is under. THe license states the regulations of use and distribution of the source code for the project. The license file should be in a repository. 
+
+3. THe CONTRIBUTIONs.md file states how to contribute to that specific project along with guidelines on how to properly contribute. 
+
+4. One type of contribution is translation of the project into different langauges. 
+
+5. The CODE_OF_CONDUCT.md file describes the acceptable behaviour of contributing/ being apart of this specific project.  It states the expected behaviours. 
+
+6. Behavouirs that violate the code of conduct is threathening language, derogatory language, personal attacks. 
+
+7. In the README.md file it states that the user can open an issue or email the support team. 
