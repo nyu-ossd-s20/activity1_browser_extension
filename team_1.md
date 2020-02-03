@@ -13,3 +13,15 @@
 6. Behavouirs that violate the code of conduct is threathening language, derogatory language, personal attacks. 
 
 7. In the README.md file it states that the user can open an issue or email the support team. 
+
+# Part 4
+
+1.[https://outgoing.prod.mozaws.net/v1/b6566991daf066d40ee0dae32b5e5116731c8959a18ea53b058654631ea7c206/https%3A//getadblock.com/](Homepage)
+
+2. GNU General Public License, version 3.0
+
+3. We can't find the repo for this extension
+
+4. No
+
+5. 13 (on their website)
