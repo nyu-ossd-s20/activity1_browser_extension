@@ -13,3 +13,15 @@
   * Discriminating based on race, not using a person's correct pronouns, using derogatory language, and threats of violence are all examples of behaviors that violate their guidelines.
 7. If a person working with the content of this repository runs into problems or has questions, what can they do?
   * If they run into problems, they can file a bug under the issues tab in the repository. If they have questions, they can email the dev-addons mailing list or contact the WebExtensions team.
+
+# Part 4
+1. What is the homepage for the extension?
+ * 
+2. What is the license under which the extension is distributed?
+ * 
+3. Can you find a code repository for this extension?
+ * 
+4. Is the extension that you picked an open source project?
+ * 
+5. Can you find information about how many different users contribute to this project? If so, specify how many.
+ * 
