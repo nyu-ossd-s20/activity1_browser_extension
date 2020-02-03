@@ -27,7 +27,7 @@ Three types of behaviors that violate the Mozilla Community Participation Guidel
 If a person is running into issues, they can contact the "[dev-addons mailing list](https://mail.mozilla.org/listinfo/dev-addons) or contact the WebExtensions team in the #webextensions IRC channel on irc.mozilla.org"
 
 
-### Part 4
+## Part 4
 ### What is the homepage for the extension?
 
 The extension doesn't have a homepage, but it does have an extensive readme on its github page.
