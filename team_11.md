@@ -23,8 +23,16 @@ ANSWER: They can submit a pull request or an issue to the repository.
 
 ### Part 4
 #### 1. What is the homepage for the extension?
-#### 2. What is the license under which the extension is distributed?
-#### 3. Can you find a code repository for this extension?
-#### 4. Is the extension that you picked an open source project?
-#### 5. Can you find information about how many different users contribute to this project? If so, specify how many.
+https://ublock.org/
 
+#### 2. What is the license under which the extension is distributed?
+GPLv3.  GPL stands for General Public License and this license gives users the ability to run, study, share, and modify the software.
+
+#### 3. Can you find a code repository for this extension?
+Yes you can.  Here is the link: https://github.com/gorhill/uBlock
+
+#### 4. Is the extension that you picked an open source project?
+Yes it is an open source project.
+
+#### 5. Can you find information about how many different users contribute to this project? If so, specify how many.
+Yes, you can find information about how many different users contribute to this project.  According to the GitHub link: https://github.com/gorhill/uBlock/graphs/contributors?from=2014-06-22&to=2020-02-03&type=c there have been 81 contributors since the creation of uBlock Origin.  Additionally, according to https://crowdin.com/project/ublock there are 920 project members.  So there are probably close to a 1000 contributors to uBlock Origin.
