@@ -23,7 +23,7 @@ ANSWER: They can submit a pull request or an issue to the repository.
 
 ### Part 4
 #### 1. What is the homepage for the extension?
-https://ublock.org/
+https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en
 
 #### 2. What is the license under which the extension is distributed?
 GPLv3.  GPL stands for General Public License and this license gives users the ability to run, study, share, and modify the software.
