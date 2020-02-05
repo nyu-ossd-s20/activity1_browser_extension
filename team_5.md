@@ -30,11 +30,16 @@
 ## Part 4
 
 #### 1. What is the homepage for the extension?
+*   The Bitwarden homepage consists of a brief introduction of the extension's purpose of password protection for individuals and businesses along with a large graphic of the extension on a desktop and two smartphones to illustrate that the passwords are synced across all devices. The homepage also consists of links to download the extension for each of the supported operating systems and web browsers, a link to answers to frequently asked questions, a link which users can use to contact the development team, and a link for organizations to view the available enterprise packages that are offered.
 
 #### 2. What is the license under which the extension is distributed?
+* This extension is distributed under the GNU General Public License, version 3.0
 
 #### 3. Can you find a code repository for this extension?
+* Yes, there are several links on the Bitwarden website the redirect to code repositories for the different versions of the extension.
 
 #### 4. Is the extension that you picked an open source project?
+* Yes, Bitwarden is indeed an open source project. The source code has been made available publicly for anyone to contribute.
 
 #### 5. Can you find information about how many different users contribute to this project? If so, specify how many.
+* Yes, the number of contributors can be found on the repositories on github. The repositories for the browser, desktop, mobile, and website versions of this project as well as the server each have 20+ contributors. The command line version of the project has a total of 9 contributors.
