@@ -16,7 +16,7 @@
 
 # Part 4
 
-1.  [https://outgoing.prod.mozaws.net/v1/b6566991daf066d40ee0dae32b5e5116731c8959a18ea53b058654631ea7c206/https%3A//getadblock.com/](Homepage)
+1.  [Homepage](https://outgoing.prod.mozaws.net/v1/b6566991daf066d40ee0dae32b5e5116731c8959a18ea53b058654631ea7c206/https%3A//getadblock.com/)
 
 2. GNU General Public License, version 3.0
 
@@ -27,4 +27,4 @@
 5. 13 (on their website)
 
 # Part 5
-(Theme Changer) [https://github.com/nyu-ossd-s20/themeChanger/tree/master]
+[Theme Changer] (https://github.com/nyu-ossd-s20/themeChanger/tree/master)
