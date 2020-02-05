@@ -27,4 +27,4 @@
 5. 13 (on their website)
 
 # Part 5
-[Theme Changer](https://github.com/nyu-ossd-s20/themeChanger/tree/master)
+[Theme Changer](https://github.com/nyu-ossd-s20/theme-changer)
