@@ -28,4 +28,4 @@ The extension we chose is called Enhancer for Youtube and it is located [here](h
  * One person contributes to this project.
 
 # Part 5 
-https://github.com/nyu-ossd-s20/mood_music
+https://github.com/nyu-ossd-s20/table_of_contents
