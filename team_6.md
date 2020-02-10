@@ -48,3 +48,6 @@ Yes.
 ### Can you find information about how many different users contribute to this project? If so, specify how many.
 
 There are 81 contributors to this project
+
+## Part 5
+https://github.com/nyu-ossd-s20/dropmoji
