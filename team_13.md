@@ -1,3 +1,5 @@
+#PART THREE
+
 What is the purpose of the README.md file? What kind of information should be included there?
 
 The purpose of the README.md file is 
@@ -28,3 +30,25 @@ Three behaviors that violate Mozilla's Community Participation Guidelines are be
 If a person working with the content of this repository runs into problems or has questions, what can they do?
 
 Create an issue. If they are feeling amazing then they can submit a pull request.
+
+#PART FOUR
+
+What is the homepage for the extension?
+
+adblockplus.org
+
+What is the license under which the extension is distributed?
+
+GPLv3
+
+Can you find a code repository for this extension?
+
+Yes, https://github.com/adblockplus/adblockplusui
+
+Is the extension that you picked an open source project?
+
+The extension is an open source project. It currently has 141 branches and their readme defines what each aspect of the repository does.
+
+Can you find information about how many different users contribute to this project? If so, specify how many.
+
+14 Contributors.
